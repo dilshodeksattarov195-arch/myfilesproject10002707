@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpncrypt",
+        "uuid": 21734503,
+        "checksum": "s1377h"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
